@@ -6,5 +6,5 @@
 cd build
 cmake -G "MinGW Makefiles" ..
 cmake --build .
-./Parallel.exe
+./parallel.exe
 ```
