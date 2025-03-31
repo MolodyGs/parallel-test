@@ -25,4 +25,5 @@ int main() {
       functions::calc(1); 
     }
   }
+  cout << "Todos los hilos han finalizado con exito!" << endl;
 }
